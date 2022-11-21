@@ -1,10 +1,11 @@
 # Praktikum-7
 ## Variable PHP
 Menambahkan Variable pada program menggunakan PHP dengan menggunakan code dibawah ini untuk menambahkan variable pada program.
-![gambar1](screenshot/Belajarphpdasar.png)
+![gambar1](screenshot/phpdasar.png)
 <br>
 
-![gambar2](screenshot/outputphpdasar.png)
+Hasil yang ditampilkan Program
+![gambar2](screenshot/Belajarphpdasar.png.png)
 <br>
 
 ## Predifine Variable $_GET

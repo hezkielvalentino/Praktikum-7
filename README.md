@@ -5,7 +5,7 @@ Menambahkan Variable pada program menggunakan PHP dengan menggunakan code dibawa
 <br>
 
 Hasil yang ditampilkan Program
-![gambar2](screenshot/Belajarphpdasar.png.png)
+![gambar2](screenshot/Belajarphpdasar.png)
 <br>
 
 ## Predifine Variable $_GET
